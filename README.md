@@ -7,11 +7,11 @@
 
 ## Olá, seja bem-vindo ao meu perfil do GitHub 👋🏾
 
-Meu nome é Vanessa Mello, sou Front-End Developer 💻sempre em busca de conhecimento💻. Estou me apaixonando por desenvolvimento, em busca de oferecer algo que tornará o mundo um lugar melhor. Participante ativa de meetups, bootcamps e workshops.
+Meu nome é Vanessa Mello, sou Back-End Developer 💻sempre em busca de conhecimento💻. Estou me apaixonando por desenvolvimento, em busca de oferecer algo que tornará o mundo um lugar melhor. Participante ativa de meetups, bootcamps e workshops.
 
-- :💼 Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-End Jr.
-- :💻 Linguagens: HTML, CSS, JavaScript, Bootstrap, React e na expectativa de aprender muito mais!
-- :🎨 Ferramentas: Visual Studio Code, GitHub, Miro e Figma.
+- :💼 Atualmente estou trabalhando em uma empresa da área de tecnologia, como Analista de Sistemas Jr.
+- :💻 Linguagens: HTML, CSS, C#, Go, Aws e com os desafios diários de aprendizado continuo.
+- :🎨 Ferramentas: Visual Studio Code, VSCode, Pycharm e GitHubCopilot.
 - :📚 Acadêmico: Cursando Bootcamp da Reprograma💜, sou graduada em Administração de Empresas.
 > :octocat: 
 <p align="left">
